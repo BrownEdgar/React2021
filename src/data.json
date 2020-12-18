@@ -1,0 +1,59 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"name": "Seyran",
+			"skills": [
+				"Html5",
+				"css3",
+				"JS",
+				"React.js"
+			],
+			"PhoneNumber": "077-985-654"
+		},
+		{
+			"id": 2,
+			"name": "Lucy",
+			"skills": [
+				"Html5",
+				"css3",
+				"JS",
+				"React.js"
+			],
+			"PhoneNumber": "077-987-654"
+		},
+		{
+			"id": 3,
+			"name": "Artyom",
+			"skills": [
+				"Html5",
+				"css3",
+				"JS",
+				"React.js"
+			],
+			"PhoneNumber": "077-985-654"
+		},
+		{
+			"id": 4,
+			"name": "ArtyomZ",
+			"skills": [
+				"Html5",
+				"css3",
+				"JS",
+				"React.js"
+			],
+			"PhoneNumber": "077-985-654"
+		},
+		{
+			"id": 5,
+			"name": "ArtyomZ",
+			"skills": [
+				"Html5",
+				"css3",
+				"JS",
+				"React.js"
+			],
+			"PhoneNumber": "077-985-654"
+		}
+	]
+}
