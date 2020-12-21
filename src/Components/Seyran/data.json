@@ -1,0 +1,17 @@
+{
+    "users":[
+        {
+        "id":1,
+        "name":"Seyran",
+        "skills":["html", "Css", "JS"],
+        "phone":"077544100"
+    },
+    {
+        "id":2,
+        "name":"Arman",
+        "skills":["html", "Css", "JS"],
+        "phone":"093577376"
+    }
+
+]
+}
