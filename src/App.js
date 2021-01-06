@@ -3,6 +3,7 @@ import './App.css';
 import data from "./data.json";
 import "./Developers.css"
 import Developers from './Developers'
+
 export default class App extends Component {
 	state = {
 		users: ["Edgar", "Seyran", "Lucy", "ArtyomZ", "Artyom"],
