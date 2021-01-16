@@ -1,0 +1,13 @@
+.prgs{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid silver;
+    background-color: silver;
+
+}
+.tvyal {
+    border: 1px solid black;
+    font-size: 45px;
+    margin:79px 0;
+    padding: 20px;
+}

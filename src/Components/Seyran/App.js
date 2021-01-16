@@ -1,15 +1,11 @@
-//Code here
-import React, {Component} from 'react'
-import Main from './Main'
+import React, { Component } from 'react';
+import Programers from "./Home";
+// import { BrowserRouter as Router, Route, Switch, Redirect } from 'react-router-dom'
 
- export default class App extends Component {
-
-     render () {
-         return (
-             <div> 
-                 <Main />
-             </div>
-         )
-     }
- }
-
+export default class App extends Component {
+    render() {
+        return (
+               <Programers />
+        )
+    }
+}
