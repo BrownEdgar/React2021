@@ -1,0 +1,33 @@
+.pr__item{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	border-bottom: 1px solid #000;
+	width: 100%;
+	padding: 10px;
+	
+}
+
+button{
+	width: 100px;
+	padding: 8px;
+	color: white;
+	font-weight: 800;
+	background-color: lightblue;
+	border:1px solid black;
+	
+}
+.pr__item img {
+	width: 60px;
+	height: 60px;
+}
+.title{
+	width: 200px;
+	flex-grow: 1;
+	
+	margin-left: 15px;
+	padding: 10px;
+}
+.title h1{
+	font-size: 16px;
+}
